@@ -12,7 +12,7 @@ object TVList {
         "央视频道" to listOf(
             TV(
                 0,
-                "CCTV1 综合123",
+                "CCTV1 综合1234",
                 "CCTV1",
                 listOf("http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8"),
                 0,
